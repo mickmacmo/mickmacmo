@@ -1,5 +1,6 @@
 - 👋 Mikc McCluney
-Welcome to the preview....
-- 👀 Interested in security labs and integrations
-- 🌱 I’m currently learning ... python, lambda, other things  
+A profile preview file for all that fun 
+
+Likes ....security labs and integrations
+Learning ... to code again ....python, lambda, other things  
 
